@@ -1,2 +1,2 @@
-@jing_jing@
+# @jing_jing
 print("hello,world")
